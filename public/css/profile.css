@@ -1,0 +1,25 @@
+.profile-picture {
+	border-radius: 100%;
+	overflow: hidden;
+	-webkit-box-sizing: content-box;
+  	-moz-box-sizing: content-box;
+  	box-sizing: content-box;
+}
+.small-profile-picture {
+	border: 2px solid #50597b;
+	width: 80px;
+	height: 80px;
+}
+.block {
+	margin-bottom: 25px;
+	padding-top: 25px;
+	background: #e3e7f1;
+	border-radius: 5px;
+}
+.profile-img {
+	padding: 15px 15px 15px 15px;
+}
+.datos h4{
+	padding-top: 15px;
+	text-align: justify;
+}
